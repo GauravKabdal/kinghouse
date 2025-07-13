@@ -1,12 +1,50 @@
-# React + Vite
+# 🌄 KingSukh Guest House Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official website repository for **KingSukh Guest House**, a peaceful getaway located beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156.  
+This site showcases our rooms, services, gallery, and contact options — built with a modern, clean, and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 📱 **Responsive Design** — Fully mobile-optimized with a hamburger menu.
+- 🌫️ **Glassmorphism UI** — Stylish frosted-glass effects for modern aesthetics.
+- 🛏️ **Room Showcase** — Display of available rooms with prices and features.
+- 🧾 **Services Section** — Highlighting offerings like restaurant, guide support, etc.
+- 🖼️ **Gallery** — Beautiful photo grid showcasing rooms and local spots.
+- 📍 **Google Maps Integration** — Pinpointed location for easy navigation.
+- 📬 **Contact Form** — Reach out with name, email, and message.
+- ⚙️ Built using **React + Tailwind CSS**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Google Maps Embed](https://developers.google.com/maps/documentation/embed)
+
+
+---
+
+## 🧑‍💻 Developer Info
+
+**Gaurav Kabdal**  
+Frontend Developer  
+📧 gauravkabdal10@gmail.com  
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- Images used from actual guest house and surroundings.
+- React and Tailwind for powering the frontend UI.
+- Google Maps for easy directions and location pinning.
